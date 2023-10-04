@@ -2,11 +2,13 @@
 
 # Create library for zio language
 ## setup.zi file
+example:
 ```
 lib sanalzio/examplelib-zio/master 0.1
 func system.py
 key pass.py
 ```
+what?:
 ```
 lib ghuser/ghreponame/branch version
 func newfuncionfilename.py
